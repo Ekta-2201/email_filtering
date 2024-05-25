@@ -1,4 +1,4 @@
-# email_filtering
+# SPAM EMAIL FILTER
 This is a model which is used to filter the "spam" or "ham" emails.
 <br></br>
 <h2>Libraries used:</h2>
